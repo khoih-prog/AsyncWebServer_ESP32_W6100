@@ -16,7 +16,7 @@
 ## Table of contents
 
 * [Table of contents](#table-of-contents)
-* [Important Note from v1.6.2](#Important-Note-from-v162)
+* [Important Note](#Important-Note)
 * [Why do we need this AsyncWebServer_ESP32_W6100 library](#why-do-we-need-this-AsyncWebServer_ESP32_W6100-library)
   * [Features](#features)
   * [Why Async is better](#why-async-is-better)
